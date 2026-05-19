@@ -1,4 +1,4 @@
-Here’s the text from the image:
+
 Restart quiz functionality
 🛠️ Technologies Used
 HTML5
